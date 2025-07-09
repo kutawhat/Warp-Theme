@@ -18,6 +18,10 @@
 <img src="https://github.com/user-attachments/assets/6f6252f2-fa6b-4d08-bf15-8c7fc64c5318"/>
 </details>
 <details>
+<summary>Grey</summary>
+<img src="https://github.com/user-attachments/assets/a1967c31-f232-4d9d-be1a-18b16d503f19"/>
+</details>
+<details>
 <summary>Light</summary></summary>
 <img src="https://github.com/user-attachments/assets/8b9c139a-f6f6-4814-b2eb-208321d3996a"/>
 </details>
