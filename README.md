@@ -1,26 +1,29 @@
 <h3 align="center">
-	<img src="" width="100" alt="Logo"/><br/>
-	<img src="" height="30" width="0px"/>
-	Kuta for <a href="https://www.warp.dev">Warp</a>
+	<img src="https://github.com/user-attachments/assets/65ba9652-4d32-45e9-8f20-b922fe7a3085" width="100" alt="Logo"/><br/>
+	Kuta for <a href="https://www.warp.dev">Warp</a><br/>
 </h3>
 
 <p align="center">
-	<img src="assets/preview.webp"/>
+	<img src="https://github.com/user-attachments/assets/7899a373-6ab5-48d3-8c50-b54afbb9237f"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>Dark</summary>
-<img src="assets/latte.webp"/>
-</details>
-<details>
-<summary>Light</summary></summary>
-<img src="assets/frappe.webp"/>
+<img src="https://github.com/user-attachments/assets/7899a373-6ab5-48d3-8c50-b54afbb9237f"/>
 </details>
 <details>
 <summary>Dark RE</summary>
-<img src="assets/macchiato.webp"/>
+<img src="https://github.com/user-attachments/assets/6f6252f2-fa6b-4d08-bf15-8c7fc64c5318"/>
+</details>
+<details>
+<summary>Grey</summary>
+<img src="https://github.com/user-attachments/assets/a1967c31-f232-4d9d-be1a-18b16d503f19"/>
+</details>
+<details>
+<summary>Light</summary></summary>
+<img src="https://github.com/user-attachments/assets/8b9c139a-f6f6-4814-b2eb-208321d3996a"/>
 </details>
 
 ## Usage
